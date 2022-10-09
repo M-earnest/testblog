@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: home
 ---
 
 For more info see the [ about section](about.md)
