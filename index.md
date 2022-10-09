@@ -1,3 +1,4 @@
+ {% include navigation.html %}
 
 For more info see the [ about section](about.md)
 
