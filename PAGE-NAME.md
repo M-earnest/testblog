@@ -1,3 +1,3 @@
 layout: page
-title: "https://m-earnest.github.io/testblog"
-permalink: /about/contact/
+title: "contact"
+permalink: https://m-earnest.github.io/testblog/about/contact/
