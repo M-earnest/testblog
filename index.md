@@ -1,3 +1,7 @@
+---
+layout: default
+title: About
+---
 
 For more info see the [ about section](about.md)
 
